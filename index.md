@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<html>
+<head>    
+<style type="text/css">
+    p, h1 { color: black; text-shadow: 1px 1px gray; font-style: strong; font-family: Verdana;}
+	h1, span {text-align: center; font-size:84px; text-shadow: 2px 2px white;}
+	#main {
+    position: relative;
+}
+#main:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: https://www.jellycode.pt/wp-content/uploads/2013/07/natal-background-jellycode.jpg; 
+    width: 100%;
+    height: 100%;
+    opacity : 0.2;
+    z-index: -1;
+}
+  </style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/vivimoussa/vivimoussa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<title>
+Feliz Natal
+</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body background="https://www.jellycode.pt/wp-content/uploads/2013/07/natal-background-jellycode.jpg" >
+<h1><span style="color: #ff0000;">Feliz Natal<span style="color: #008000;">!!!</span></span>🐟</h1>
 
-### Markdown
+<p>Esse ano fiquei pensando... qual ser&aacute; meu presente para o peixinho?!</p>
+<p>2018 foi um ano que apesar da percep&ccedil;&atilde;o de ter passado r&aacute;pido, foi longo... bem longo.&nbsp;</p>
+<p>Muitas mudan&ccedil;as de sentimentos, desconec&ccedil;&otilde;es e d&uacute;vidas.&nbsp;</p>
+<p>De todas as longas conversas para partir, alguma coisa trazia a gente de volta.&nbsp;</p>
+<p>Foi um per&iacute;odo de natal de muitas reflex&otilde;es pra mim... e no meio delas eu tive uma ideia...</p>
+<p>O meu presente pra voc&ecirc; nesse natal &eacute; um dia, dia 29, 29/12.... Pe&ccedil;o desculpas n&atilde;o consegui embrulhar.&nbsp;<br /><br /><br /></p>
+<p>Algumas orienta&ccedil;&otilde;es:&nbsp;<br />No dia 28/12 por favor arruma uma malinha pequena, pq dia 29 pela manh&atilde; vamos sair de casa e fugir um pouquinho... uma dist&acirc;ncia de aproximadamente 70km do Rio.&nbsp;</p>
+<p>Meu presente ainda tem uma pend&ecirc;ncia... que eu vou precisar da sua participa&ccedil;&atilde;o: s&oacute; posso levar o peixinho de &ocirc;nibus, mas caso o peixinho prefira podemos ir de carro.&nbsp;</p>
+<p>Ahh e vamos passar a noite fora, s&oacute; retornaremos no dia 30. = )</p>
+<p>&nbsp;</p>
+<p>Espero que goste do presente e me conceda esse dia com voc&ecirc;.&nbsp;&nbsp;❤️<br /><br /><br /></p>
+<p>&nbsp;</p>
+<h1 align="center">🐐❤️🐟</h1>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivimoussa/vivimoussa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
